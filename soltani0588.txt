@@ -1,0 +1,2 @@
+node1:
+vless://760ee542-55b0-4796-d5cf-843a615ae19d@irtc.gsmfixs.com:2083?encryption=none&security=tls&sni=fsffs56565dd.gsmfixs.com&type=ws&host=my.gsmfixs.com&path=%2Fwss19835%3Fed%3D2048#irtc%2Fmy%2F0603-soltani0588
